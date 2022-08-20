@@ -27,7 +27,7 @@ window.onload = async () => {
 
   let {bgc} = data;
 
-  let f = new FontFace('中文像素体', `url(../font/中文像素体.ttf)`);
+  let f = new FontFace('中文像素体', `url(../font/ipix.ttf)`);
   let loaded = await f.load();
   await document.fonts.add(loaded);
 
