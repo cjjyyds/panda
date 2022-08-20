@@ -10,4 +10,4 @@
 
 https://aptx.itch.io/panda
 
-http://cjjyyds.acgn.tv/panda/
+http://cjjyyds.acgn.tv/panda/dist/
